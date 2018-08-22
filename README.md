@@ -8,8 +8,9 @@ Simple script for calculating High Alchemy maths at any time
 #### Made in Python3.7 for Windows64. Executed in python idle shell
 
 ### Requirements
-BeautifulSoup
-requests
+- BeautifulSoup
+- requests
+- Internet connection
 
 
 #### Known errors:
