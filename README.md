@@ -10,6 +10,7 @@ Simple script for calculating High Alchemy maths at any time
 ### Requirements
 - BeautifulSoup
 - requests
+- lxml
 - Internet connection
 
 
