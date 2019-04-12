@@ -15,5 +15,5 @@ Simple script for calculating High Alchemy maths at any time
 
 
 #### Known errors:
--Will crash if you add a wrong item name in the code.
--Outdated code. Wiki's changed, data collection is broken.
+- Will crash if you add a wrong item name in the code.
+- Outdated code. Wiki's changed, data collection is broken.
